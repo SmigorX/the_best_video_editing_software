@@ -2,7 +2,7 @@ Q: What is this? \
 A: A cmd video editing tool.
 
 Q: Why does it exist? \
-A: I needed some *good* software to edit my r6 clips.
+A: Why not.
 
 ### Some Postmier Casual software
 -takes lots of resources \
